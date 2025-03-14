@@ -31,6 +31,13 @@ const products = [
     image: "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500",
     description: "Ergonomic laptop stand for better posture and comfort."
   }
+  {
+    id: 5,
+    title: "Macbook Pro 2019",
+    price: 1000,
+    image: "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-white-bed-zR6r-CpCnmg=500",
+    description: "Ergonomic laptop stand for better posture and comfort."
+  }
 ];
 
 function App() {
