@@ -33,10 +33,10 @@ const products = [
   }
   {
     id: 5,
-    title: "Macbook Pro 2019",
-    price: 1000,
+    title: "Macbook Air M1 2020",
+    price: 999,
     image: "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-white-bed-zR6r-CpCnmg=500",
-    description: "Ergonomic laptop stand for better posture and comfort."
+    description: "Cheap, Slim Laptop"
   }
 ];
 
