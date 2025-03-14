@@ -8,7 +8,7 @@ const products = [
     title: "Wireless Headphones",
     price: 99.99,
     image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
-    description: "Premium wireless headphones with noise cancellation and exceptional sound quality."
+    description: "Premium headphones with noise cancellation and exceptional sound quality."
   },
   {
     id: 2,
