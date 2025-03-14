@@ -30,6 +30,13 @@ const products = [
     price: 49.99,
     image: "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500",
     description: "Ergonomic laptop stand for better posture and comfort."
+  },
+  {
+    id: 5,
+    title: "Uji Coba Aja",
+    price: 100.99,
+    image: "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500",
+    description: "Hanya percobaan buat tambahan"
   }
   {
     id: 5,
