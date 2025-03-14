@@ -13,7 +13,7 @@ export const ProductCard: React.FC<ProductCardProps> = ({ title, price, image, d
     <div className="bg-white rounded-lg shadow-md overflow-hidden transition-transform hover:scale-105">
       <div className="relative">
         <img src={image} alt={title} className="w-full h-48 object-cover" />
-        <button className="absolute top-2 right-2 p-1.5 bg-white rounded-full shadow-md hover:bg-gray-100">
+        <button className="absolute top-2 right-2 p-1.5 bg-blue rounded-full shadow-md hover:bg-gray-100">
           <Heart className="h-5 w-5 text-gray-600" />
         </button>
       </div>
